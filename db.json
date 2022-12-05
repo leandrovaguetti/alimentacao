@@ -3,7 +3,11 @@
          {
           "id_user" : "92655670078",
           "id_alimento" : "1"
-         }
+         },
+         {
+            "id_user" : "92655670078",
+            "id_alimento" : "2"
+           }
 
     ],
     "consumidos":[
