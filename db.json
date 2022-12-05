@@ -1,0 +1,25 @@
+{
+    "lista":[
+         {
+          "id_user" : "92655670078",
+          "id_alimento" : "1"
+         }
+
+    ],
+    "consumidos":[
+          {
+            "id_user" : "92655670078",
+            "id_alimento" : "1",
+            "base_unit": "g", 
+            "qty": "150",
+            "data": "05/12/2022"
+          },
+          {
+            "id_user" : "92655670078",
+            "id_alimento" : "2",
+            "base_unit": "g", 
+            "qty": "50",
+            "data": "04/12/2022"
+          }         
+    ]
+}
